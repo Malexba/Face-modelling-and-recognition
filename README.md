@@ -3,4 +3,4 @@ This bachelor project is based on presenting the main techniques used for the mo
 
 Apart from this top-down approach, there is also an introduction to bottom-up strategies which are focused on a data-driven approach, capturing data and performing face recognition through holistic or local methods. Specifically, it is presented the eigenfaces method, as well as fisherfaces, giving a Python implementation in a Jupyter notebook of the first one.
 
-In addition to the [project](./Project.pdf) and the [code implementation](./Eigenfaces.ipynb), it can also be found the [presentation](./Presentation.pdf) used during the defence of the project. There is also the original version of the [project](./SpanishProject.pdf) and the [presentation](./SpanishPresentation.pdf) written in Spanish.
+In addition to the [project](./Project.pdf) and the [code implementation](./Eigenfaces.ipynb), it can also be found the [presentation](./Presentation.pdf) used during the defence of the project. There is also the original version of the [project](./SpanishReport.pdf) and the [presentation](./SpanishPresentation.pdf) written in Spanish.
